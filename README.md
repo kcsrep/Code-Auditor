@@ -105,12 +105,4 @@ MIT License - Feel free to use this project for learning and portfolio purposes.
 
 This is a portfolio project, but suggestions and improvements are welcome!
 
-<<<<<<< HEAD
-=======
 
-*Built with ☕ and Java*
-=======
-# Code-Auditor
-A simple tool to analyze Java code for security and style issues
->>>>>>> ef232e07f2b182c5055293849dc3ce6d5d16b7ec
->>>>>>> ab7cb479ae0c698f8c6f20f18f4916d75d58f060
