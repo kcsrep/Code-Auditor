@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Code Compliance Auditor 🔍
 
 A JavaFX-based desktop application that analyzes Java source code for security vulnerabilities and code quality issues.
@@ -105,17 +105,3 @@ MIT License - Feel free to use this project for learning and portfolio purposes.
 
 This is a portfolio project, but suggestions and improvements are welcome!
 
-## 📧 Contact
-
-**Your Name**  
-[Your Email]  
-[LinkedIn Profile]  
-[Portfolio Website]
-
----
-
-*Built with ☕ and Java*
-=======
-# Code-Auditor
-A simple tool to analyze Java code for security and style issues
->>>>>>> ef232e07f2b182c5055293849dc3ce6d5d16b7ec
